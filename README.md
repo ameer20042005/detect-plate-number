@@ -1,2 +1,2 @@
-# detect-plate-number
-The YOLO (You Only Look Once) project is an object detection system 
+YOLO license plate detection project relies on AI to analyze images and videos. The model is trained on images containing license plates and then accurately recognizes them in real-time. It is used in intelligent traffic systems, automatic toll collection, and security enhancement through vehicle recognition.
+![image](https://github.com/user-attachments/assets/7d9fe053-6330-4c5f-a666-ee6854b9760a)
